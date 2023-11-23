@@ -1,0 +1,10 @@
+[gd_resource type="Resource" script_class="PlayerMovementData" load_steps=2 format=3 uid="uid://wax24uo10hx"]
+
+[ext_resource type="Script" path="res://Scripts/PlayerMovementData.gd" id="1_v3afn"]
+
+[resource]
+script = ExtResource("1_v3afn")
+speed = 120.0
+acceloration = 1000
+friction = 1000
+jump_velocity = -350.0
